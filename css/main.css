@@ -1,7 +1,7 @@
 body {overflow: visible !important;}
 .sap-splash-page {padding: 0 20px; max-width: 1000px; margin: auto; font-family: arial, sans-serif; line-height: 1.25;}
 .sap-splash-page .section {margin: 40px 0; overflow: hidden;}
-.sap-splash-page .intro {margin-bottom: 0;}
+.sap-splash-page .intro {margin-bottom: -5px;}
 .sap-splash-page img {max-width: 100%;}
 .sap-splash-page h2 {color: #501214; font-size: 32px;}
 .sap-splash-page h3 {color: #6a5638; font-size: 24px; font-weight: normal; margin-bottom: 20px;}
