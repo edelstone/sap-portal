@@ -1,11 +1,16 @@
 body {overflow: visible !important;}
+.canvasBorder {background: #f4f1ed;}
 .sap-splash-page {padding: 0 20px; max-width: 1000px; margin: auto; font-family: arial, sans-serif; line-height: 1.25;}
 .sap-splash-page .section {margin: 40px 0; overflow: hidden;}
 .sap-splash-page .intro {margin-bottom: -5px;}
 .sap-splash-page img {max-width: 100%;}
 .sap-splash-page h2 {color: #501214; font-size: 32px;}
-.sap-splash-page h3 {color: #6a5638; font-size: 24px; font-weight: normal; margin-bottom: 20px;}
-.sap-splash-page .editable-area {min-height: 220px; background-color: #e8e3db; padding: 20px 25px 10px 25px; border: 1px solid #bbab92; margin: 50px 0;}
+.sap-splash-page h3 {color: #6a5638; font-size: 24px; margin-bottom: 20px;}
+.sap-splash-page ul {padding-left: 20px;}
+.sap-splash-page li {margin-bottom: 8px;}
+.sap-splash-page .header {margin-bottom: -20px;}
+.sap-splash-page .banner {margin-top: 30px; margin-bottom: -5px; border: 1px solid #bbab92;}
+.sap-splash-page .editable-area {min-height: 160px; background-color: #e8e3db; padding: 20px 25px; border: 1px solid #bbab92; margin: 50px 0;}
 .sap-splash-page .editable-area p {color: #222; margin-bottom: 15px; font-size: 16px;}
 .sap-splash-page .editable-area a {color: #501214; text-decoration: underline;}
 .sap-splash-page .editable-area a:hover {text-decoration: none;}
