@@ -8,7 +8,7 @@ body {overflow: visible !important;}
 .sap-splash-page h3 {color: #6a5638; font-size: 24px; margin-bottom: 20px;}
 .sap-splash-page ul {padding-left: 20px;}
 .sap-splash-page li {margin-bottom: 8px;}
-.sap-splash-page .header {text-align: right; position: relative; right: 100px; margin-top: -60px; bottom: 60px;}
+.sap-splash-page .header {text-align: right; position: relative; right: 100px; margin-top: -50px; bottom: 70px;}
 .sap-splash-page .banner {margin-bottom: 0; border: 1px solid #bbab92;}
 .sap-splash-page .editable-area {min-height: 160px; background-color: #e8e3db; padding: 20px 25px; border: 1px solid #bbab92; margin: 50px 0;}
 .sap-splash-page .editable-area p {color: #222; margin-bottom: 15px; font-size: 16px;}
